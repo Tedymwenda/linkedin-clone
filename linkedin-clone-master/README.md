@@ -11,9 +11,6 @@ to create a build version
 you could add firebase for authentication if you like to learn 
 how the two interact.
 
-
-## <a href='https://linkedin-clone.app' target='_blank'>LIVE DEMO</a>
-
 ## Description
 This is the ReactJS LinkedIn Clone, the perfect project to put on your portfolio.
 
