@@ -1,9 +1,21 @@
-# # Disney Plus Clone Readme
+# # linkedin-clone Readme
+to run first:
+
+### `npm install`
+the 
+### `npm start`
+
+### `npm build`
+to create a build version
+
+you could add firebase for authentication if you like to learn 
+how the two interact.
+
 
 ## <a href='https://linkedin-clone.app' target='_blank'>LIVE DEMO</a>
 
 ## Description
-This is the ReactJS LinkedIn Clone, the perfect project to put on your portfolio by Clever Programmer.
+This is the ReactJS LinkedIn Clone, the perfect project to put on your portfolio.
 
 ## Build it today!
 
